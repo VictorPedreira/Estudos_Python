@@ -15,3 +15,16 @@ Branch(ramo)
 
 É um ramo - versionamento de codigo
 main = master
+-----------------------------------------------------------------------------
+O comando git init é utilizado para criar um novo repositório Git vazio em um diretório. 
+Quando você executa esse comando, ele cria uma subpasta chamada .git no diretório atual, 
+que contém todos os arquivos e estruturas necessários para o controle de versão do seu projeto.
+
+Aqui está o que acontece quando você executa git init:
+
+Criação do diretório .git: Um diretório oculto chamado .git é criado no diretório onde o comando é executado. 
+Esse diretório contém todos os metadados e informações de configuração do repositório Git, incluindo objetos, referências e configurações.
+Inicialização do repositório: O Git configura o diretório para começar a rastrear arquivos e mudanças. Inicialmente, 
+o repositório está vazio, sem nenhum commit.
+Configuração do repositório: É criada uma configuração básica do repositório, 
+que você pode personalizar conforme necessário.
