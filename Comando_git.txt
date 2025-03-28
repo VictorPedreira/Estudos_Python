@@ -32,7 +32,7 @@ que você pode personalizar conforme necessário.
 git add nome da pasta 'ou' .= adicona a atualização (git add . sombe TUDO)
 git status = ele mostra atualizações não adicionadas e as que foram adicionadas
 git commit -m "mensagem aqui" = ele confirma a atualização do git add com a mensagem
-git checkout = troca as branchs que vc está navegando
+git checkout nome da branch = troca as branchs que vc está navegando
 git branch nome = cria uma nova branch
 git remote add https://github.com/VictorPedreira/nome-repositorio - cria um repositorio no seu github
 git push origim nome da branch = envia a branch para o repositório remoto
