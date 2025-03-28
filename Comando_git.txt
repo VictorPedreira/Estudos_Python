@@ -1,0 +1,17 @@
+Você pode alterar o nome associado às confirmações do Git usando o comando. 
+O novo nome definido ficará visível em qualquer confirmação futura 
+enviada por push para o repositório a partir da linha de comando:
+
+git config --global user.name "Mona Lisa"
+-----------------------------------------------------------------------------
+Descrição Configura o email do usuário para todos os repositórios Git no sistema do usuário.
+Escopo: A configuração é global, ou seja, aplicada a todos os repositórios Git que o usuário cria ou usa no sistema.
+Uso: Ideal para definir um email padrão que você deseja usar em todos os seus projetos Git, a menos que seja 
+explicitamente substituído por uma configuração local.
+
+git config --global user.email "MY_NAME@example.com"
+-----------------------------------------------------------------------------
+Branch(ramo)
+
+É um ramo - versionamento de codigo
+main = master
