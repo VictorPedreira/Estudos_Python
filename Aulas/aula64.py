@@ -27,4 +27,3 @@ for _ in range(100):
     cpf_gerado_pelo_calculo = f'{nove_digitos}{digito_1}{digito_2}'
 
     print(cpf_gerado_pelo_calculo)
-print('Coco')
