@@ -35,6 +35,6 @@ git commit -m "mensagem aqui" = ele confirma a atualização do git add com a me
 git checkout = troca as branchs que vc está navegando
 git branch nome = cria uma nova branch
 git remote add https://github.com/VictorPedreira/nome-repositorio - cria um repositorio no seu github
-git push origim nome da branch = envia a branch para o repositório remoto
+git push origin nome da branch = envia a branch para o repositório remoto
 
 
