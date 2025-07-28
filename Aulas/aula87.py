@@ -43,5 +43,3 @@ mostro_argumentos_nomeados(**configuracoes)
 # args e kwargs
 # args (já vimos)
 # kwargs - keyword arguments (argumentos nomeados)
-
-
